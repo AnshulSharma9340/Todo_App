@@ -1,2 +1,2 @@
-# Todo_App
-to-do app using flasak
+# todo_app
+ todo app using flask
